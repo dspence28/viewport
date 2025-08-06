@@ -146,7 +146,7 @@ footer .icon{
 
 /* ----- HANDLE PREFERS REDUCED MOTION FOR THE ICON ANIMATIONS ----- */
 /* --------------- BEGIN USER PREFERS REDUCED MOTION QUERY --------------- */
-@media screen (prefers-reduced-motion: reduce){
+@media screen (prefers-reduced-motion: reduce) {
     
     @-webkit-keyframes icon-animation {
         0% { font-variation-settings: "TIME" 1; }
